@@ -23,6 +23,8 @@
     "redux-saga": "^1.0.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "yarn": "yarn install",
     "start": "react-scripts start",
     "build": "react-scripts build",
