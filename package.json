@@ -1,9 +1,11 @@
 {
   "name": "web",
   "version": "0.1.0",
+  "homepage": "https://hash-tags.github.io/athan/",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "gh-pages": "^2.1.1",
     "prettier": "^1.17.0",
     "ramda": "^0.26.1",
     "react": "^16.8.3",
