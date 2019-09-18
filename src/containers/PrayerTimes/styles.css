@@ -1,0 +1,28 @@
+.Container {
+  background-color: rgba(173, 172, 146, 0.29);
+  padding: 1px 10px;
+  min-width: 240px;
+  text-shadow: 2px 2px #282c34;
+}
+
+.day-time {
+  margin: 10px;
+}
+
+.img {
+  zoom: 5%;
+}
+
+.Time-Bloc {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.title {
+  font-family: 'AraJozoor-Regular', Sans-Serif;
+}
+
+.Time-Container {
+  display: block;
+}

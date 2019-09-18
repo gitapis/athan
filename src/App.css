@@ -1,0 +1,72 @@
+h1 {
+  margin: auto;
+}
+
+.App {
+  text-align: center;
+  font-family: 'AraJozoor-Regular', Sans-Serif;
+  width: 100%;
+}
+
+.App-Container {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-flow: row-reverse wrap;
+}
+
+.App-DatePicker {
+  font-size: smaller;
+  text-align: center;
+  padding: 10px;
+}
+
+.App-block {
+  flex: 1;
+  margin: 10px;
+}
+
+.App-header {
+  text-align: center;
+  font-family: 'AraJozoor-Regular', Sans-Serif;
+}
+
+.App-body {
+  text-align: center;
+  font-family: 'droid-arabic-naskh';
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(7px + 2vmin);
+  color: white;
+  padding: 40px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-footer {
+  flex: 1;
+  font-size: smaller;
+  text-align: center;
+  font-family: droid-arabic-naskh;
+}
+
+.copyright {
+  margin-top: 5px;
+  font-family: 'Verdana, Geneva, sans-serif';
+  font-size: 12px;
+  font-weight: bold;
+  direction: ltr;
+}

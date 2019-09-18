@@ -1,0 +1,5 @@
+.Clock {
+  display: inline-flex;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
