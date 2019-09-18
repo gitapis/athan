@@ -1,0 +1,7 @@
+.Error {
+  flex: 1;
+  font-family: 'AraJozoor-Regular', Sans-Serif;
+  font-size: smaller;
+  margin: 10px;
+  white-space: nowrap;
+}
