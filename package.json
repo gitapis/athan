@@ -4,7 +4,7 @@
   "homepage": "https://hash-tags.github.io/athan/",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.1.1",
     "prettier": "^1.17.0",
     "ramda": "^0.26.1",
